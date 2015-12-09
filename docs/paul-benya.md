@@ -4,4 +4,5 @@ _I am from **Cleveland, OH, USA**_
 
 * I like sushi
 * I like to tinker around the house
-* My faivorite color is blue
+* My favorite color is blue
+* I work at Progressive Insurance
